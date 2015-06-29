@@ -25,7 +25,7 @@ This plugin adds a slides custom post type to your WordPress website to manage y
 2. Type **tj slides** in the search box and click on search button.
 3. Find Tj Slides plugin.
 4. Then click on Install Now after that activate the plugin.
-5. You will see the Teams menu.
+5. You will see the Slides menu.
 
 **Installing Via FTP**
 
@@ -34,7 +34,7 @@ This plugin adds a slides custom post type to your WordPress website to manage y
 3. Upload the **tj-slides** folder into your plugins directory.
 4. Log in to your WordPress admin panel and click the Plugins menu.
 5. Then activate the plugin.
-5. You will see the Teams menu.
+5. You will see the Slides menu.
 
 == Frequently Asked Questions ==
 
